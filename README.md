@@ -1,4 +1,4 @@
-# MICROMOUSE.
+MICROMOUSE.
 
 TB6612FNG                 STM32F103
 ────────────────────────────────────────
